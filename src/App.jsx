@@ -2,10 +2,10 @@
 import Navbar from "./components/Navbar"
 import Hero from "./pages/Hero"
 import About from "./pages/Abouts"
-import Projects from "./pages/Projects"
+import Education from "./pages/Education"
 import Contact from "./pages/Contact"
 import Footer from "./components/Footer"
-
+import WorkExperience from "./pages/WorkExperience"
 function App() {
  
   return (
@@ -13,7 +13,8 @@ function App() {
      <Navbar/>
      <Hero/>
      <About/>
-     <Projects/>
+     <Education/>
+     <WorkExperience/>
      <Contact/>
      <Footer/>
      </>

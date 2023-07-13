@@ -75,11 +75,15 @@ const Navbar = () => {
                 <a href="#about" className="smooth-scroll-link">About</a>
               </Box>
               <Box >
-                <a href="#projects" className="smooth-scroll-link">Projects</a>
+                <a href="#education" className="smooth-scroll-link">Education</a>
+              </Box>
+              <Box >
+                <a href="#work-experience" className="smooth-scroll-link">Work Experience</a>
               </Box>
               <Box >
                 <a href="#contact" className="smooth-scroll-link">Contact</a>
               </Box>
+              
               <DarkModeToggle />
             </Stack>
         </Flex>
@@ -106,12 +110,16 @@ const Navbar = () => {
               <Box >
                 <a href="#about" className="smooth-scroll-link" >About</a>
               </Box>
-              <Box  >
-                <a href="#projects"  className="smooth-scroll-link">Projects</a>
+              <Box >
+                <a href="#education" className="smooth-scroll-link" >Education</a>
+              </Box>
+              <Box>
+                <a href="#work-experience" className="smooth-scroll-link">Work Experience</a>
               </Box>
               <Box>
                 <a href="#contact" className="smooth-scroll-link">Contact</a>
               </Box>
+             
             </Stack>
 
           </Box>

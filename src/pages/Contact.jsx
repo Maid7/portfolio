@@ -14,7 +14,7 @@ const Contact = () => {
             <Stack align="center" direction="row" px={4}>
               <HStack mx={4}>
                 <Text color="purple.400" fontWeight={800}>
-                  03
+                  04
                 </Text>
                 <Text fontWeight={800}>Contact</Text>
               </HStack>
